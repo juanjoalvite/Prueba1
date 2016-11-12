@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PERSONAS>
+    <PERSONA>
+        <NOMBRE>JJ</NOMBRE>
+        <APELLIDOS>AG</APELLIDOS>
+    </PERSONA>
+    <PERSONA>
+        <NOMBRE>JJ2</NOMBRE>
+        <APELLIDOS>AG2</APELLIDOS>
+    </PERSONA>
+    <PERSONA>
+        <NOMBRE>JJ3</NOMBRE>
+        <APELLIDOS>AG3</APELLIDOS>
+    </PERSONA>
+</PERSONAS>
